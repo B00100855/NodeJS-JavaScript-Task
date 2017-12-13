@@ -1,0 +1,8 @@
+{
+	temperature: 15
+	humidity: 80
+	wind speed: 30
+	time: 12
+	location: 10
+}
+ 
